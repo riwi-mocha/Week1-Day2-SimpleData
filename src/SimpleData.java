@@ -12,9 +12,9 @@ public class SimpleData{
 
 
         if(student){
-            System.out.println("Soy un estudiante.");
+            System.out.println("I'm a student");
         } else {
-            System.out.println("No soy un estudiante.");
+            System.out.println("I'm not a student");
         }
 
     }
